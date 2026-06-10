@@ -1,0 +1,23 @@
+{
+  "source_video": "data\\uploaded_video.mp4",
+  "total_frames": 2580,
+  "total_detections": 3930,
+  "detection_counts": {
+    "car": 2323,
+    "person": 557,
+    "truck": 436,
+    "bus": 306,
+    "motorcycle": 127,
+    "train": 69,
+    "traffic light": 67,
+    "airplane": 14,
+    "horse": 13,
+    "clock": 7,
+    "kite": 4,
+    "bird": 4,
+    "stop sign": 2,
+    "boat": 1
+  },
+  "conf_threshold": 0.3,
+  "device": "cpu"
+}

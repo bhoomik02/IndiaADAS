@@ -1,0 +1,26 @@
+{
+  "source_video": "data\\uploaded_video.mp4",
+  "total_frames": 2580,
+  "total_alerts": 455,
+  "tier_counts": {
+    "low": 515,
+    "medium": 1610,
+    "critical": 420,
+    "high": 35
+  },
+  "india_label_counts": {
+    "Car / Auto-Rickshaw": 2323,
+    "Pedestrian / Jaywalker": 557,
+    "Truck / Goods Vehicle": 436,
+    "Bus / Tempo Traveller": 306,
+    "Two-Wheeler (Overload risk)": 127,
+    "Train / Rail": 69,
+    "Traffic Signal": 69,
+    "Other Object": 15,
+    "Aircraft": 14,
+    "Cattle / Buffalo": 13,
+    "Boat / Ferry": 1
+  },
+  "conf_threshold": 0.3,
+  "device": "cpu"
+}

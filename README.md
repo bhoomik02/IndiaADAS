@@ -204,6 +204,4 @@ IndiaADAS demonstrates that improving ADAS performance in India is not only a de
 
 By combining proven object detection models with region-specific intelligence, ADAS systems can become safer, more explainable, and better suited to real-world Indian traffic conditions.
 
-## License
 
-MIT License
